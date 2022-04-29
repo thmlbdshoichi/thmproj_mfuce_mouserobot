@@ -7,6 +7,6 @@
 
 ### ABOUT ME
 ##### Hi, I'm Shoichi(Arunwat) from Mae Fah Luang University, and I will be graduating soon :)
-##### So, I made a decision to publish soem of my university projects on Github.
+##### So, I made a decision to publish some of my university projects on Github.
 ##### I hope my project can be a guideline, and inspire you to create more and more amazing works :)
 
